@@ -109,7 +109,7 @@ To evaluate a trained model on a validation set (e.g. Middlebury full resolution
 python evaluate_stereo.py --restore_ckpt models/hart_sceneflow.pth --dataset middlebury_F
 ```
 
-Weight is available [here]().
+Weight is available [here](https://github.com/ZYangChen/HART/releases/download/pth/hart_sceneflow.pth).
 
 ## Acknowledgements
 <ul>
