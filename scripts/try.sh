@@ -1,1 +1,0 @@
-python ./main.py --batch_size 8 --n_downsample 2 --num_steps 10000 --mixed_precision
