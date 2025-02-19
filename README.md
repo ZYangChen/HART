@@ -113,6 +113,7 @@ Weight is available [here](https://github.com/ZYangChen/HART/releases/download/p
 
 ## Acknowledgements
 <ul>
+<li>This project borrows the code from [STTR](https://github.com/mli0603/stereo-transformer), [IGEV](https://github.com/gangweiX/IGEV), [MoCha-Stereo](https://github.com/ZYangChen/MoCha-Stereo). We thank the original authors for their excellent works!</li>
 <li>This project is supported by Science and Technology Planning Project of Guizhou Province, Department of Science and Technology of Guizhou Province, China (QianKeHe[2024]Key001).</li>
 <li>This project is supported by Science and Technology Planning Project of Guizhou Province, Department of Science and Technology of Guizhou Province, China (Project No. [2023]159). </li>
 </ul>
