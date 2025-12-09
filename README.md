@@ -6,6 +6,7 @@ The official implementation of "Hadamard Attention Recurrent Transformer: A Stro
 </div>
 
 <a href="https://arxiv.org/pdf/2501.01023" target='_blank'><img src="https://img.shields.io/badge/arXiv-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red"/></a>&nbsp;
+<a href="https://kns.cnki.net/kcms2/article/abstract?v=VkQzIsHyPdiXOZ6uXUyfivU9sw0L6aCigQddB8XY3kQv2xxDD_PZgfE930ZrL792l6Ja8IZ4Q_rHF8P3ZJmixyHK5a8qnFYkwDoNMPsQqWXyV9Onp09yYpnB13Ge2IcnPc0ZBSK2p02CFOWrMTXb3KGkB7IK42dsaQcZl4PJP1pd7ZqVhcObiu58-VpKHCNl&uniplatform=NZKPT&language=CHS" target='_blank'><img src="https://img.shields.io/badge/中文版-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red"/></a>&nbsp;
 
 > Hadamard Attention Recurrent Transformer: A Strong Baseline for Stereo Matching Transformer <br>
 > [Ziyang Chen](https://scholar.google.com/citations?user=t64KgqAAAAAJ&hl=en&oi=sra),[Wenting Li](https://www.gzcc.edu.cn/jsjyxxgcxy/contents/3205/3569.html), [Yongjun Zhang](http://cs.gzu.edu.cn/2021/1210/c17588a163831/page.htm)✱, [Bingshu Wang](https://teacher.nwpu.edu.cn/wangbingshu.html), [Yabo Wu](https://github.com/aoe-wyb), [Yong Zhao](https://www.ece.pku.edu.cn/info/1045/2131.htm), [C. L. Philip Chen](https://www.ieeeiciea.org/2023/Prof.PhilipChen.html) <br>
